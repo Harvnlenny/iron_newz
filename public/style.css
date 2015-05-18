@@ -11,13 +11,13 @@ body {
   float: right;
 }
 
-ul {width: 980px;
+ul {width: 940px;
   margin: 0 auto;
   background-color: #909090
 }
 
 ul {
-  width: 980px;
+  width: 940px;
   list-style: none;
   text-align: left;
   
@@ -55,10 +55,6 @@ h6 {
   margin-bottom: 0px;
   padding:1pt;
   font-size:5pt;
-}
-
-p2 {
-  font:white;
 }
 
 p {
